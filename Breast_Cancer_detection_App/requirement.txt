@@ -1,0 +1,12 @@
+fastapi>=0.111.0
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+xgboost>=2.1.0
+itsdangerous>=2.2.0
+Jinja2>=3.1.5
+MarkupSafe>=2.1.5
+Werkzeug>=3.0.0
+
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
